@@ -1,5 +1,5 @@
 # CrimeMLClassification
-### Made by Keungoui Kim (Ph.D.) & Young-an Kim (Ph.D.)
+### Made by Keungoui Kim (Ph.D.) & Young-An Kim (Ph.D.)
 
 - This repository contains the list of codes that are used for this research,
   "A Machine Learning Approach to Analyzing Crime Concentration: The Case of New York City"
